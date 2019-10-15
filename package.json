@@ -1,0 +1,8 @@
+{
+  "name": "es6-clean-architecture",
+  "version": "1.0.0",
+  "description": "A library to assist in creating javascript applications using clean architecture principals",
+  "main": "index.js",
+  "author": "Lawrence Goldstien <lawrence@acode.ninja>",
+  "license": "MIT"
+}
